@@ -29,4 +29,7 @@ bool is_duffinian(int num);
 void test_duffinian();
 // EFFECTS: test the correctness of is_duffinian()
 
+void test_apocalyptic_num();
+// EFFECTS: test the correctness of is_apocalyptic_num()
+
 #endif
